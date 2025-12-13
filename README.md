@@ -1,5 +1,7 @@
 # Cybersecurity-Student-Discounts
 
+* [CyberDefenders](https://help.cyberdefenders.org/en/articles/8698393-student-discount) A platform for SOC analysts to level up their cybersecurity skills.
+  * 10% off on Certified CyberDefender Certification. 50% off on BlueYard CyberRange monthly & yearly subscriptions. 
 * [Malwarebytes](https://www.malwarebytes.com/student-discount)
   * 50% off device security for students.
 * [Proton Mail](https://proton.me/student) Hosted encrypted email service.
