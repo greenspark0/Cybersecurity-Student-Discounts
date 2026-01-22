@@ -6,6 +6,8 @@
   * 10% off on Certified CyberDefender Certification. 50% off on BlueYard CyberRange monthly & yearly subscriptions. 
 * [Malwarebytes](https://www.malwarebytes.com/student-discount)
   * 50% off device security for students.
+* [Parallels Desktop](https://www.parallels.com/plans/education/educators/) Virtual machine software for Apple Mac.
+  * 50% off Parallels Desktop.
 * [Proton Mail](https://proton.me/student) Hosted encrypted email service.
   * 50% off Proton Mail.
 * [Proton Unlimited](https://proton.me/student) Email, VPN, Drive, Calendar, Pass, and Wallet.
