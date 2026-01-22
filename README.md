@@ -1,5 +1,7 @@
 # Cybersecurity-Student-Discounts
 
+* [Astra](https://www.getastra.com/github-student-developer-pack) Security suite for your website: firewall, malware scanner & managed bug bounty platform.
+  * Six months free.
 * [CyberDefenders](https://help.cyberdefenders.org/en/articles/8698393-student-discount) A platform for SOC analysts to level up their cybersecurity skills.
   * 10% off on Certified CyberDefender Certification. 50% off on BlueYard CyberRange monthly & yearly subscriptions. 
 * [Malwarebytes](https://www.malwarebytes.com/student-discount)
